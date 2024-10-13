@@ -49,7 +49,7 @@ Libraries or modules used: requests, pandas, numpy, datetime
 - We end up with 90 rows or instances and 17 columns or features. 
 
 ## Data Collection with Web Scraping
-<ahttps://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B2%5D%20Data%20Collection%20with%20Web%20Scraping.ipynb >2_Data Collection with Web Scraping.ipynb</a>
+<a href="https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B2%5D%20Data%20Collection%20with%20Web%20Scraping.ipynb" target="_blank">2_Data Collection with Web Scraping.ipynb</a>
 
 Libraries or modules used: sys, requests, BeautifulSoup from bs4, re, unicodedata, pandas
 
