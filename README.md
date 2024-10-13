@@ -123,7 +123,7 @@ Example: A folium map showing the succeeded launches and failed launches for a s
 <br>
 
 ## Data Visualization using Dash
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B7%5D%20spacex%20dash%20app.py" target="_blank">7_spacex_dash_app.py</a>
+<a href="https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B7%5D%20spacex%20dash%20app.py" target="_blank">7_spacex_dash_app.py</a>
 
 Libraries or modules used: pandas, dash, dash_html_components, dash_core_components, Input and Output from dash.dependencies, plotly.express
 
