@@ -148,7 +148,7 @@ The picture below shows a scatterplot when the payload mass range is set to be f
 <br>
 
 ## Machine Learning Prediction
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B8%5D%20Machine%20Learning%20Prediction.ipynb" target="_blank">8_Machine Learning Prediction.ipynb</a>
+<a href="https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B8%5D%20Machine%20Learning%20Prediction.ipynb" target="_blank">8_Machine Learning Prediction.ipynb</a>
 
 Libraries or modules used: pandas, numpy, matplotlib.pyplot, seaborn, sklearn
 
