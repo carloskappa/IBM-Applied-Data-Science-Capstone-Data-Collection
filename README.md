@@ -37,7 +37,7 @@ The overall methodology includes:
   - K-nearest neighbors (KNN)
 
 ## Data collection using SpaceX API
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B1%5D%20Data%20Collection%20API.ipynb" target="_blank">1_Data Collection API.ipynb</a>
+<a https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B1%5D%20Data%20Collection%20API.ipynb </a>
 
 Libraries or modules used: requests, pandas, numpy, datetime
 
