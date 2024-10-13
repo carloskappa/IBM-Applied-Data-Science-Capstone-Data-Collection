@@ -104,7 +104,7 @@ Example: A scatterplot showing the relationship between flight number and launch
 <br>
 
 ## Data Visualization using Folium
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B6%5D%20Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb" target="_blank">6_Interactive Visual Analytics with Folium lab.ipynb</a>
+<a href="https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B6%5D%20Interactive%20Visual%20Analytics%20with%20Folium%20lab.ipynb" target="_blank">6_Interactive Visual Analytics with Folium Lab.ipynb</a>
 
 Libraries or modules used: folium, wget, pandas, math
 
