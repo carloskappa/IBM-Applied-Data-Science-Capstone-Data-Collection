@@ -41,7 +41,7 @@ The overall methodology includes:
 
 Libraries or modules used: requests, pandas, numpy, datetime
 
-- The API used is <a href="https://api.spacexdata.com/v4/rockets/" target="_blank">here</a>.
+- The API used is <ahref="https://api.spacexdata.com/v4/rockets/" target="_blank">here</a>.
 - The API provides data about many types of rocket launches done by SpaceX, the data is therefore filtered to include only Falcon 9 launches.
 - The API is accessed using requests.get().
 - The json result is converted to a dataframe using the json_normalize() function from pandas.
@@ -61,7 +61,7 @@ Libraries or modules used: sys, requests, BeautifulSoup from bs4, re, unicodedat
 - We end up with 121 rows or instances and 11 columns or features. 
 
 ## EDA with Pandas and Numpy
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B3%5D%20EDA.ipynb">3_EDA.ipynb</a>
+<ahref="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B3%5D%20EDA.ipynb">3_EDA.ipynb</a>
 
 Libraries or modules used: pandas, numpy
 
