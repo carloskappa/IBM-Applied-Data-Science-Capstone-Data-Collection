@@ -71,7 +71,7 @@ Functions from the Pandas and NumPy libraries such as value_counts() are used to
 - The number and occurrence of each mission outcome
 
 ## EDA with SQL
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B4%5D%20EDA%20with%20SQL.ipynb" target="_blank">4_EDA with SQL.ipynb</a>
+<a href="https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B4%5D%20EDA%20with%20SQL.ipynb" target="_blank">4_EDA with SQL.ipynb</a>
 
 Framework used: IBM DB2
 
