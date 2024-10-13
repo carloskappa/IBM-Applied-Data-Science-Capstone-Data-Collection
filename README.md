@@ -85,7 +85,7 @@ The data is queried using SQL to answer several questions about the data such as
 The SQL statements or functions used include SELECT, DISTINCT, AS, FROM, WHERE, LIMIT, LIKE, SUM(), AVG(), MIN(), BETWEEN, COUNT(), and YEAR().
 
 ## Data Visualization using Matplotlib and Seaborn
-<a href="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B5%5D%20EDA%20Visualization.ipynb" target="_blank">5_EDA Visualization.ipynb</a>
+<a href="https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B5%5D%20EDA%20Visualization.ipynb" target="_blank">5_EDA Visualization.ipynb</a>
 
 Libraries or modules used: pandas, numpy, matplotlib.pyplot, seaborn
 
