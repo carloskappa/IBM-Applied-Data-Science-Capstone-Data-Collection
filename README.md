@@ -61,7 +61,7 @@ Libraries or modules used: sys, requests, BeautifulSoup from bs4, re, unicodedat
 - We end up with 121 rows or instances and 11 columns or features. 
 
 ## EDA with Pandas and Numpy
-<ahref="https://github.com/1AyaNabil1/IBM-Applied-Data-Science-Capstone-Project/blob/main/%5B3%5D%20EDA.ipynb">3_EDA.ipynb</a>
+<a href="https://github.com/carloskappa/IBM-Applied-Data-Science-Capstone-Data-Collection/blob/main/%5B3%5D%20EDA.ipynb" target="_blank">3_EDA.ipynb</a>
 
 Libraries or modules used: pandas, numpy
 
