@@ -1,6 +1,6 @@
 # IBM Applied Data Science Capstone Project
 
-The PowerPoint slides for this project can be found at <a </a>.
+The PowerPoint slides for this project can be found at <a Carlos_Final_Capstone_Presentation.pdf</a>.
 
 ## Executive summary
 In this capstone project, we will predict if the SpaceX Falcon 9 first stage will land successfully using several machine learning classification algorithms.
